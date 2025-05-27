@@ -13,7 +13,7 @@ Penetration tester with 8 years of experience. My research is mostly focused on 
 <h2 style="text-align: left">Exploits</h2>
 - [ElasticSearch 7.13.3 - Memory disclosure](https://www.exploit-db.com/exploits/50149)
 <h2 style="text-align: left">Talks</h2>
-- [RootedCON PT 2025](https://rootedcon.com/agenda/portugal-2025/) - https://rootedcon.com/agenda/portugal-2025/  
+- [RootedCON PT 2025](https://rootedcon.com/agenda/portugal-2025/)  
 <h2 style="text-align: left">Certifications & Trainings</h2>
 - Fev 2025 \| OSMR - Offensive Security macOS Researcher
 - June 2024 \| CRTO - Certified Red Team Operator
